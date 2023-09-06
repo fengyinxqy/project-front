@@ -1,0 +1,46 @@
+{
+  "name": "dbbx-font",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint --fix --ext .js,.vue src",
+    "lintcss": "stylelint src/**/*.{css,scss} --fix --custom-syntax postcss-scss"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-standard": "^8.0.1",
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "postcss": "^8.4.29",
+    "postcss-html": "^1.5.0",
+    "postcss-scss": "^4.0.7",
+    "stylelint": "^15.10.3",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-recommended-scss": "^12.0.0",
+    "stylelint-config-recommended-vue": "^1.5.0",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-config-standard-vue": "^1.0.0",
+    "vite": "^4.4.5",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue": "2.7"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "element-ui": "^2.15.13",
+    "js-cookie": "^3.0.5",
+    "jsencrypt": "^3.3.2",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.66.1",
+    "vue-router": "3.6.5",
+    "vue-template-compiler": "^2.7.14",
+    "vuex": "3.6.2",
+    "vuex-persistedstate": "^4.1.0"
+  }
+}

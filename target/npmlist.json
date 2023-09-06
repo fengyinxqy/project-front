@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"dbbx-font","dependencies":{"axios":{"version":"1.4.0"},"element-ui":{"version":"2.15.13"},"eslint-config-prettier":{"version":"9.0.0"},"normalize.css":{"version":"8.0.1"},"sass":{"version":"1.66.1"},"vue-router":{"version":"3.6.5"},"vue-template-compiler":{"version":"2.7.14"},"vuex":{"version":"3.6.2"}}}
